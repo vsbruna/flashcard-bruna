@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Allianz Parque',
+    'Onde fica localizado o estádio do Verdão?',
+    'Água Branca, São Paulo'
 )
 
 criaCartao(
