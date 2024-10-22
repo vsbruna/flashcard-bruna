@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'técnico ',
+    'Quem é o técnico do Palmeiras?',
+    'Abel Ferreira'
 )
