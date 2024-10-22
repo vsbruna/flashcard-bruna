@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Camisa 10',
-    'Quem é o camisa 10 do Palmeias?',
+    'Quem é o camisa 10 do Palmeiras?',
     'Rony'
 )
 
