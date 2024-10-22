@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'técnico ',
+    'Técnico ',
     'Quem é o técnico do Palmeiras?',
     'Abel Ferreira'
 )
